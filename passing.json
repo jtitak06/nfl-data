@@ -2,7 +2,7 @@
     [
         {
             "name": "Tom Brady",
-            "yards": 83338
+            "yards": 84520
         },
         {
             "name": "Drew Brees",
@@ -17,12 +17,12 @@
             "yards": 71838
         },
         {
-            "name": "Philip Rivers",
-            "yards": 63440
+            "name": "Ben Roethlisberger",
+            "yards": 64088
         },
         {
-            "name": "Ben Roethlisberger",
-            "yards": 63414
+            "name": "Philip Rivers",
+            "yards": 63440
         },
         {
             "name": "Dan Marino",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Matt Ryan",
-            "yards": 58871
+            "yards": 59735
         },
         {
             "name": "Eli Manning",
@@ -38,19 +38,19 @@
         },
         {
             "name": "Aaron Rodgers",
-            "yards": 54464
+            "yards": 55360
         },
         {
             "name": "John Elway",
             "yards": 51475
         },
         {
-            "name": "Warren Moon",
-            "yards": 49325
+            "name": "Matthew Stafford",
+            "yards": 49995
         },
         {
-            "name": "Matthew Stafford",
-            "yards": 49007
+            "name": "Warren Moon",
+            "yards": 49325
         },
         {
             "name": "Fran Tarkenton",
